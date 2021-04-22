@@ -46,11 +46,10 @@ Task list
 	- [ ] Sub-item
 
 Table
-```md
-|:Header 1|Header 2:|
-|---------|----------|
-|:Column 1|Column 2:|
-```
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Column 1 | Column 2 | 
 
 Embedding
 ![[https://www.youtube.com/watch?v=aS6mH8TTFR4]]
